@@ -1,9 +1,10 @@
 var animal = 'dog'
-animal = 'cat'
 
 function myAnimal() {
   return animal
 }
+
+animal = 'cat'
 
 function yourAnimal() {
   // How can we make sure that this function
